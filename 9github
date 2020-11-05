@@ -1,0 +1,16 @@
+https://github.com/
+https://git-scm.com/downloads
+
+https://github.com/Aakashdeveloper/Nov_JavaScript_Evng.git
+//////
+first time for new project
+////
+
+git clone https://github.com/Aakashdeveloper/Nov_JavaScript_Evng.git
+
+/////
+Push the code
+/////
+git add .
+git commit -m "a"
+git push
