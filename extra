@@ -31,16 +31,18 @@ Ecma 7
 > Hoisting
 > object 
 > JSON
-///////////////////
-> this 
-> Prototypes
 > Es6
-    > classes
     > Transpile
     > import export
 > package.JSON
+> this 
 > npm
+///////////////////
+> Prototypes
+Es6
+    > classes
 > DoM
+
 > Calc
 > Geolocation
 > Form validation
@@ -59,3 +61,18 @@ Ecma 7
 > ajax
 > Baisc Jquery
 > DataTables
+
+
+babel
+/*Step to create package.json*/
+** NodeJs must be install in system
+> navigate to folder using cmd/terminal
+> npm init -y
+
+
+/*Step to create package.json*/
+** NodeJs must be install in system
+> navigate to folder using cmd/terminal
+> npm i packagename
+
+npm i @babel/core @babel/preset-env @babel/register
