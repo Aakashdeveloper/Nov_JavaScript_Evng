@@ -42,24 +42,27 @@ Es6
     > classes
 > DoM
 > Calc
-///////////////////
 > Geolocation
 > Form validation
 > Event
+///////////////////
 > currenyConvertor
 > promis
 > async await
-> Progress bar
 > screen
+
+> Progress bar
 > Dynamic DropDown
-> fabonicci
-> factorial
-> Call/Apply
-> palindrome
+
 > Weather application
 > ajax
 > Baisc Jquery
 > DataTables
+
+> fabonicci
+> factorial
+> palindrome
+> Call/Apply
 
 
 babel
