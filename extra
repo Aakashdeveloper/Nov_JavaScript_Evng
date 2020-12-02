@@ -51,15 +51,13 @@ Es6
 > promis
 > async await
 > Dynamic DropDown
-///////////////////
-> Weather application
-> ajax
 > Baisc Jquery
-> DataTables
-
 > fabonicci
 > factorial
 > palindrome
+> Weather application
+> ajax
+> DataTables
 > Call/Apply
 
 
@@ -76,3 +74,5 @@ babel
 > npm i packagename
 
 npm i @babel/core @babel/preset-env @babel/register
+
+https://github.com/Aakashdeveloper/JavaScript-Interview-Question
